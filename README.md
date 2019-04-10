@@ -1,5 +1,4 @@
 # mochi
-peterlee13795@gmail.com
 
 # Author
 - [*__humblem2__*](https://github.com/humblem2)
