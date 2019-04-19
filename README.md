@@ -1,5 +1,7 @@
 # Fanciercode - 모찌 프로젝트
 
+[redirect](https://github.com/humblem2/mochi)
+
 ### 주요 사용 기술(생산성/빠르고/쉽게/선택과 집중/$)
 - 스프링부트
 - JPA
